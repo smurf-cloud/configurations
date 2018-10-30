@@ -1,6 +1,0 @@
-spring:
-  cloud:
-    config:
-      overrideSystemProperties: false
-  application:
-    contact: @Smurf_Dad
